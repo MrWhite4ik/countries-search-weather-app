@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countries-search-weather-app/static/css/main.981ec752.css",
+    "main.js": "/countries-search-weather-app/static/js/main.44ed050d.js",
+    "index.html": "/countries-search-weather-app/index.html",
+    "main.981ec752.css.map": "/countries-search-weather-app/static/css/main.981ec752.css.map",
+    "main.44ed050d.js.map": "/countries-search-weather-app/static/js/main.44ed050d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.981ec752.css",
+    "static/js/main.44ed050d.js"
+  ]
+}
